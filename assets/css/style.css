@@ -1,0 +1,32 @@
+body{
+	align-content: center;
+}
+
+#add-animal{
+	width: 300px;
+	height: 150px;
+}
+
+.giphy-class{
+	width: 200px;
+	height: 25px;
+	color: white;
+	background-color: purple;
+}
+
+#animal-input{
+	font-size: 14pt;
+}
+
+#giphy-form{
+	margin-top: 25px;
+}
+
+.animal{
+	margin-top: 20px;
+	align-items: center;
+}
+
+#giphy-views{
+	align-items: center;
+}
